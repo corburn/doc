@@ -83,7 +83,7 @@ Each of these has settings and options and in general you should work from left 
 
 ### Setting the dates of the taxa
 
-In the `Tips` options you will see a table with all of the taxa that were in the alignment. This panel allows you go give the taxa dates. Taxon dates (or 'tip dates') are only important in certain cases, for example, when they sampled from fast evolving viruses or sub-fossil ancient DNA material. In the case of the apes we are analysing the tree represents millions of years of evolution so the dates of the tips can be assumed to be zero. This is the default --- the taxa all have a date of zero and the `Use tip dates` box is not selected.
+In the `Tips` options you will see a table with all of the taxa that were in the alignment. This panel allows you to give the taxa dates. Taxon dates (or 'tip dates') are only important in certain cases, for example, when they sampled from fast evolving viruses or sub-fossil ancient DNA material. In the case of the apes we are analysing the tree represents millions of years of evolution so the dates of the tips can be assumed to be zero. This is the default --- the taxa all have a date of zero and the `Use tip dates` box is not selected.
 
 {% include image.html prefix=root_url file="image5.png" %}
 
